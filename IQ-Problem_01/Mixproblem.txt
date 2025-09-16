@@ -1,0 +1,111 @@
+Bilkul — yeh rahe 50 popular IQ test problems (mixed types: number series, puzzles, logic, verbal, spatial, ages, clocks, probability, seating, etc.) — exam/interview mein bahut baar puchte jaate hain. Pehle sirf problems diye hain — agar aap chahe to main in sabke solutions + tricks step-by-step bhi de dunga. Ready? 👍
+
+2, 6, 12, 20, 30, ? — next number kya hoga?
+
+Find the next: 3, 9, 27, 81, ?
+
+What comes next: 5, 11, 23, 47, ?
+
+If A = 1, B = 2, ..., Z = 26 — what is the value of “CAB”?
+
+“CAT” : “DOG” :: “BIRD” : ? (analogy)
+
+6 people can paint 6 walls in 6 hours. How long will 3 people take to paint 3 walls?
+
+If yesterday was Monday, what will be the day after 50 days from today?
+
+A clock shows 3:15. What is the angle between hour and minute hands?
+
+If 7 workers build 7 machines in 7 days, how many days will 1 worker take to build 1 machine?
+
+Fill blank in magic square:
+
+8  1  6
+3  ?  7
+4  9  2
+
+
+Find odd one out: 16, 27, 36, 49, 64.
+
+Rearrange letters to form a word: “RNGAE”
+
+A, B, C sit in a row. B is left of C and right of A. Who is in middle?
+
+If 2x + 3 = 11, what is x?
+
+A farmer has wolf, goat, cabbage — boat can take one item. How to carry all safely? (short plan)
+
+In a code, DOG = 7, CAT = 5. What is the code for GOAT? (use letter sum)
+
+A train 100m long crosses a pole in 5 seconds. What is its speed (m/s)?
+
+Which number replaces ?:
+
+2  9  4
+7  ?  3
+6  1  8
+
+
+If A + B = 11, A − B = 3, find A and B.
+
+Area puzzle: Rectangle length = 10, width = 5. What is diagonal? (use Pythagoras)
+
+There are 5 houses in a row. How many ways to choose 2 houses such that they are not adjacent?
+
+If the day before yesterday was Thursday, what day will it be after 3 days?
+
+Two ropes burn in 1 hour each but non-uniformly. How to measure 45 minutes using them?
+
+A box contains 3 red, 4 blue, 5 green balls. If one ball is taken randomly, probability it is blue?
+
+Sequence: 1, 1, 2, 3, 5, 8, ? — next term?
+
+Word problem: “Sita is older than Geeta. Meena is younger than Sita but older than Geeta.” Who is youngest?
+
+If 12 = 6, 24 = 12, then 36 = ? (pattern?)
+
+Which completes the analogy: Finger : Hand :: Leaf : ?
+
+A die rolled twice. Probability of getting sum = 7?
+
+Find the next: 10, 7, 8, 11, 26, ? (look for pattern)
+
+If you rearrange the letters “LISTEN” you get which meaningful word?
+
+A man walks north 3 km, east 4 km. How far from starting point?
+
+9 people shake hands with each other once. How many handshakes?
+
+If every prime number p is increased by 2, which of these could be prime? (example: 3→5, etc.) — pick concept question.
+
+In a race, A finishes before B but after C. Order?
+
+Which number comes next: 4, 9, 25, 49, ? (pattern of squares/primes?)
+
+A clock gains 5 minutes every hour. If correct at 12:00 noon, after how many hours will it show 3:00?
+
+Fill the blank: 2 : 8 :: 3 : ? (relation possible cube?)
+
+A shop offers 10% discount on price and then 5% more on discounted price. Net discount approximate?
+
+Logical seating: Five friends P,Q,R,S,T sit around a round table. P left of Q, R opposite S, T next to P. Who sits opposite Q? (small reasoning)
+
+If HAPPY = 50 (using letter sum), find LOVE. (test ability to set coding)
+
+Number puzzle: Sum of digits of 1999 = ?
+
+If the 5th term of an AP is 20 and common difference is 3, what is first term?
+
+Which of these words is odd: Apple, Banana, Carrot, Mango? (category reasoning)
+
+A box has 100 bulbs, 3 defective. If 2 bulbs picked without replacement, probability both good?
+
+Pattern: 121, 144, 169, 196, ? — next number?
+
+If 5 machines take 5 minutes to make 5 parts, how long 100 machines to make 100 parts?
+
+A man is looking at a photo and says “Brothers and sisters I have none, but that man’s father is my father’s son.” Who is in the photo?
+
+Sudoku-style: place numbers 1–4 in 2×2 so each row & column has all numbers — how many possible latin squares? (small combinatorics)
+
+Logical statement: All cats are animals. Some animals are black. Can we conclude some cats are black? (syllogism)
